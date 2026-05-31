@@ -515,7 +515,7 @@
 
 - 🌐 官网: [wiwana.com](https://wiwana.com)
 - 💬 微信: +86-18315852058
-- 📧 邮箱: contact@wiwana.com
+- 📧 邮箱: sddzlsc@163.com
 
 **业务范围**:
 - ✅ AI应用定制开发
